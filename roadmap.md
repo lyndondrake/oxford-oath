@@ -1,10 +1,10 @@
 # Roadmap
 
-## End of October 2025
+## End of December 2025
 
 Public 0.5 release based on initial invited feedback.
 
-## November 2025–March 2026
+## January 2026–March 2026
 
 Wider review and feedback.
 
