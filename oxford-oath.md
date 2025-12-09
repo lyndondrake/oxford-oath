@@ -59,5 +59,4 @@ I will uphold the integrity of this oath.
 
 (OPTIONAL: May God who has given me the will to profess these commitments grant me also the grace to perform them.)
 
-(OPTIONAL: May truth inform me, and my conscience guide me, as I strive to
-keep these commitments.)
+(OPTIONAL: May truth inform me, and my conscience guide me, as I strive to keep these commitments.)
