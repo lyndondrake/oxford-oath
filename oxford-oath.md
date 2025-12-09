@@ -12,7 +12,7 @@ We celebrate the ways AI aids understanding, improves well-being, democratises o
 
 We are conscious that our creativity is both a gift and a responsibility, and that the tools we form in turn form us, including our cognition and moral reasoning.
 
-We believe in the dignity and worth of every natural human person. Technology ought to serve humanity and contribute to the common good, enhancing human freedom and protecting the vulnerable. The intelligence of artificial systems does not confer on them equality of moral worth with humans, much less divine-like status. While anthropomorphism can be useful, we should guard against falsely presenting AI systems as if they were humans.
+We believe in the dignity and worth of every natural human person. Technology ought to serve humanity and contribute to the common good, enhancing human freedom and protecting the vulnerable. The intelligence of artificial systems does not confer on them equality of moral worth with humans, much less divine-like status. While anthropomorphism can be useful, we should guard against misrepresenting artificial systems as if they were humans.
 
 We observe that AI can offer pathways towards or away from knowledge of reality. We believe that design choices around data and algorithms involve implicit and explicit moral and ethical decisions, noting especially the issues of truthfulness and transparency.
 
