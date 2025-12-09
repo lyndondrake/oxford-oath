@@ -8,7 +8,7 @@
 
 We, the undersigned, offer our support for these statements:
 
-We celebrate the ways AI aids understanding, improves well-being, democratises opportunity, enhances creativity, supports efficiency, and empowers humanity in our shared vocation to deepen understanding, advance human flourishing, and enrich culture.
+We celebrate the ways AI aids understanding, improves well-being, democratises opportunity, enhances creativity, supports efficiency, and empowers humanity in our shared vocation to deepen understanding, advances human flourishing, and enriches culture.
 
 We are conscious that our creativity is both a gift and a responsibility, and that the tools we form in turn form us, including our cognition and moral reasoning.
 
