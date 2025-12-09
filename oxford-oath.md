@@ -12,13 +12,13 @@ We celebrate the ways AI aids understanding, improves well-being, democratises o
 
 We are conscious that our creativity is both a gift and a responsibility, and that the tools we form in turn form us, including our cognition and moral reasoning.
 
-We believe in the dignity and worth of every natural human person. Technology ought to serve humanity and contribute to the common good, enhancing human freedom, and protecting the vulnerable. The intelligence of artificial systems does not confer on them equality of moral worth with humans, much less divine-like status.
+We believe in the dignity and worth of every natural human person. Technology ought to serve humanity and contribute to the common good, enhancing human freedom and protecting the vulnerable. The intelligence of artificial systems does not confer on them equality of moral worth with humans, much less divine-like status. While anthropomorphism can be useful, we should guard against falsely presenting AI systems as if they were humans.
 
 We observe that AI can offer pathways towards or away from knowledge of reality. We believe that design choices around data and algorithms involve implicit and explicit moral and ethical decisions, noting especially the issues of truthfulness and transparency.
 
-We regret the ways AI has been used to erode attention, confuse understanding of reality, misuse data, displace dignified work, and contribute to new burdens in societies and the natural world.  While anthropomorphism can be useful, we should guard against falsely presenting AI systems as if they were humans.
+We regret the ways AI has been used to erode attention, confuse understanding of reality, misuse data, displace dignified work, and contribute to new burdens in societies and the natural world.
 
-We recognise that work on AI techniques, systems, and products requires the ongoing exercise of judgement for technical choices made amid uncertainty, with limited information and agency. It also requires judgement for how we present the choices we make to others, and the impact of those choices on the nature, imperfections, biases, influences, and limits of AI systems. Our judgements in these matters have consequences for humanity, and we commit to giving serious attention to the moral reasoning these judgements require.
+We recognise that work on AI techniques, systems, and products requires the ongoing exercise of judgement for technical choices made amid uncertainty, with limited information and agency. It also requires judgement about how we present to others the choices we make, and the impact of those choices on the nature, imperfections, biases, influences, and limits of AI systems. Our judgements in these matters have consequences for humanity, and we commit to giving serious attention to the moral reasoning these judgements require.
 
 When faced with a conflict between conscience and the demands of our profession, we will exercise wisdom in giving voice to conscience and acting in line with our agency.
 
@@ -43,11 +43,11 @@ I will make my work governable and an enabler of proper human judgement.
 
 I will align my work with worthy motivations and objects of attention.
 
-I will develop my work to advance the common good and foster the natural world.
+I will develop my work to advance the common good of humanity and the natural world.
 
 ### Responsibility
 
-I will embed honesty in my work and in how I describe it.
+I will embed appropriate truthfulness in my work and demonstrate honesty in how I describe my work.
 
 I will build with restraint and towards conditions that support justice, peace, and human dignity.
 
