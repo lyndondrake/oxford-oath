@@ -51,6 +51,8 @@ Workshop contributors not in the OCTAI core team:
 While so many people have provided feedback on the Oath that we cannot list them all here, the following people have made particularly noteworthy contributions in gathering and offering detailed and constructive feedback:
 
 - Christopher Adams
+- Jeff Huber
 - Sara Lumbreras
 - Sanjay Manohar
+- John Paul Slosar
 - Jakob Zeitler
