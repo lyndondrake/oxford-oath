@@ -16,6 +16,8 @@ We believe in the dignity and worth of every natural human person. Technology ou
 
 We observe that AI can offer pathways towards or away from knowledge of reality. We believe that design choices around data and algorithms involve implicit and explicit moral and ethical decisions, noting especially the issues of truthfulness and transparency.
 
+We recognise a responsibility to sustain and care for the natural world, and to avoid forms of development that impose reckless or irreversible harm.
+
 We regret the ways AI has been used to erode attention, confuse understanding of reality, misuse data, displace dignified work, and contribute to new burdens in societies and the natural world.
 
 We recognise that work on AI techniques, systems, and products requires the ongoing exercise of judgement for technical choices made amid uncertainty, with limited information and agency. It also requires judgement about how we present to others the choices we make, and the impact of those choices on the nature, imperfections, biases, influences, and limits of AI systems. Our judgements in these matters have consequences for humanity, and we commit to giving serious attention to the moral reasoning these judgements require.
@@ -43,13 +45,13 @@ I will make my work governable and an enabler of proper human judgement.
 
 I will align my work with worthy motivations and objects of attention.
 
-I will develop my work to advance the common good of humanity and the natural world.
+I will develop my work to advance the common good of humanity.
 
 ### Responsibility
 
 I will embed appropriate truthfulness in my work and demonstrate honesty in how I describe my work.
 
-I will build with restraint and towards conditions that support justice, peace, and human dignity.
+I will build with restraint and towards conditions that support justice, peace, and care of the natural world.
 
 I will orient my work towards respect for human identity, enhancement of human creativity, and support for dignified human work.
 
