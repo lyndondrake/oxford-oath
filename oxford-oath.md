@@ -8,7 +8,7 @@
 
 We, the undersigned, offer our support for these statements:
 
-We believe in the dignity and worth of every natural human person. Technology should serve humanity and contribute to the common good, enhancing human freedom and protecting the vulnerable. The intelligence of artificial systems does not confer on them equality of moral worth with humans, much less divine-like status. While anthropomorphism can be useful, we should guard against misrepresenting artificial systems as if they were humans.
+We are committed to the dignity and worth of every natural human person. Technology should serve humanity and contribute to the common good, enhancing human freedom and protecting the vulnerable. The intelligence of artificial systems does not confer on them equality of moral worth with humans, much less divine-like status. While anthropomorphism can be useful, we should guard against misrepresenting artificial systems as if they were humans.
 
 We are conscious that our creativity is both a gift and a responsibility, and that the tools we form in turn form us, including our cognition and moral reasoning.
 
