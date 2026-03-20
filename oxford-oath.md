@@ -22,7 +22,7 @@ We regret the ways AI has been used to erode attention, confuse understanding of
 
 We recognise that work on AI techniques, systems, and products requires the ongoing exercise of judgement for technical choices made amid uncertainty, with limited information and agency. It also requires judgement about how we present to others the choices we make, and the impact of those choices on the nature, imperfections, biases, influences, and limits of AI systems. Our judgements in these matters have consequences for humanity, and we commit to giving serious attention to the moral reasoning these judgements require.
 
-When faced with a conflict between conscience and the demands of our profession, we will exercise wisdom in giving voice to conscience. We acknowledge the wide variation in individual agency to effect change or speak out.
+When faced with a conflict between conscience and the demands of our profession, we will exercise wisdom in giving voice to conscience. We acknowledge the reality of wide variation in individual agency to effect change or speak out.
 
 ## Oath
 
